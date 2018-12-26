@@ -1,0 +1,33 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+header {
+    background-image: url(../github/image/bg-masthead.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.titre {
+    font-size: 6rem;
+    text-align: center;
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(136, 135, 135));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 15px;
+}
+.titre2 {
+    text-align: center;
+    color: white;
+    max-width: 30rem;
+    font-size: 23px;
+}
+.button1 {
+    background-color:#34857F;
+    border-color: transparent;
+    padding: 20px;
+    border-radius: 4px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    width: 15%;
+}
