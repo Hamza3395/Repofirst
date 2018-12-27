@@ -7,7 +7,6 @@ header {
     background-size: 100%;
     background-position: center;
 }
-
 .titre {
     font-size: 6.5rem;
     text-align: center;
@@ -54,7 +53,7 @@ header {
 }
 .ze {
     color: gray;
-    font-size: 18px;
+    font-size: 17px;
 }
 .demo {
     max-width: 100%;
@@ -62,6 +61,11 @@ header {
 }
 .xo {
     background-color: rgb(20, 19, 19);
+}
+.hr1 {
+    border-width: .25rem;
+    width: 30%;
+    margin-right: 70%;
 }
 .foon {
     background-image: url(../github/image/bg-signup.jpg);
@@ -74,4 +78,18 @@ header {
 }
 #lo {
     float: right!important;
+}
+.bor {
+    border-left-style: solid;
+    border-left-color: rgb(32, 151, 160);
+    border-left-width: 8px;
+    margin-left: -15px;
+    padding-left: 30px;
+}
+.borr {
+    margin-left: -15px;
+}
+.paper-fly {
+    font-size: 30px;
+    color: white;
 }
