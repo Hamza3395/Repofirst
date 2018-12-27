@@ -5,10 +5,11 @@ header {
     background-image: url(../github/image/bg-masthead.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    background-position: center;
 }
 
 .titre {
-    font-size: 6rem;
+    font-size: 6.5rem;
     text-align: center;
     background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(136, 135, 135));
     -webkit-background-clip: text;
@@ -30,4 +31,47 @@ header {
     letter-spacing: 2px;
     font-size: 12px;
     width: 15%;
+    text-align: center;
+    margin-bottom: 5cm;
+}
+.span-color {
+    color: rgb(19, 117, 124);
+}
+.ipad {
+    max-width: 100%;
+    height: auto;
+}
+.re {
+    background: -webkit-gradient(linear,left top,left bottom,from(#161616),color-stop(75%,rgba(22,22,22,.9)),to(rgba(22,22,22,.8)));
+}
+.ray {
+    color: grey;
+    text-align: center;
+}
+.do {
+    max-width: 100%;
+    height: auto;
+}
+.ze {
+    color: gray;
+    font-size: 18px;
+}
+.demo {
+    max-width: 100%;
+    height: auto;
+}
+.xo {
+    background-color: rgb(20, 19, 19);
+}
+.foon {
+    background-image: url(../github/image/bg-signup.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.btn {
+    background-color: rgb(19, 117, 124);
+}
+#lo {
+    float: right!important;
 }
